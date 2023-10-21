@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lionel Mwangi</h1>
-<h3 align="center">Backend developer with experience in Python, DJango and Flask</h3>
+<h3 align="center">A passionate backend developer</h3>
 
 - 🌱 I’m currently learning **NodeJS**
+
+- 💬 Ask me about **Python and Django**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
