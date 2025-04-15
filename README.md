@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lionel Mwangi</h1>
-<h3 align="center">A passionate backend developer</h3>
+<h3 align="center">A passionate software engineer</h3>
 
-- 🌱 I’m currently learning **FastAPI**
+- 🌱 I’m currently learning **PHP and Laravel**
 
 - 💬 Ask me about **Python and Django**
 
